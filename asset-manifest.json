@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/arun442001/portfolio/static/css/main.802a801a.css",
-    "main.js": "/arun442001/portfolio/static/js/main.497bc8a3.js",
-    "static/js/453.a99ca6a8.chunk.js": "/arun442001/portfolio/static/js/453.a99ca6a8.chunk.js",
-    "static/media/image_coats.png": "/arun442001/portfolio/static/media/image_coats.7c814e6766fef97b01c2.png",
-    "static/media/image_pwc.png": "/arun442001/portfolio/static/media/image_pwc.1d69014e2fbb59491c0a.png",
-    "static/media/programming-background-collage.png": "/arun442001/portfolio/static/media/programming-background-collage.3412260c30ce97603449.png",
-    "static/media/image_tnsand.png": "/arun442001/portfolio/static/media/image_tnsand.7d679514e2c71d6a507d.png",
-    "static/media/medium-shot-woman-working-laptop.jpg": "/arun442001/portfolio/static/media/medium-shot-woman-working-laptop.50f274710a0188cee409.jpg",
-    "static/media/react_img.webp": "/arun442001/portfolio/static/media/react_img.5d215dec2ef12c69a7bf.webp",
-    "index.html": "/arun442001/portfolio/index.html",
-    "main.802a801a.css.map": "/arun442001/portfolio/static/css/main.802a801a.css.map",
-    "main.497bc8a3.js.map": "/arun442001/portfolio/static/js/main.497bc8a3.js.map",
-    "453.a99ca6a8.chunk.js.map": "/arun442001/portfolio/static/js/453.a99ca6a8.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.802a801a.css",
+    "main.js": "/portfolio/static/js/main.36fe29f0.js",
+    "static/js/453.a99ca6a8.chunk.js": "/portfolio/static/js/453.a99ca6a8.chunk.js",
+    "static/media/image_coats.png": "/portfolio/static/media/image_coats.7c814e6766fef97b01c2.png",
+    "static/media/image_pwc.png": "/portfolio/static/media/image_pwc.1d69014e2fbb59491c0a.png",
+    "static/media/programming-background-collage.png": "/portfolio/static/media/programming-background-collage.3412260c30ce97603449.png",
+    "static/media/image_tnsand.png": "/portfolio/static/media/image_tnsand.7d679514e2c71d6a507d.png",
+    "static/media/medium-shot-woman-working-laptop.jpg": "/portfolio/static/media/medium-shot-woman-working-laptop.50f274710a0188cee409.jpg",
+    "static/media/react_img.webp": "/portfolio/static/media/react_img.5d215dec2ef12c69a7bf.webp",
+    "index.html": "/portfolio/index.html",
+    "main.802a801a.css.map": "/portfolio/static/css/main.802a801a.css.map",
+    "main.36fe29f0.js.map": "/portfolio/static/js/main.36fe29f0.js.map",
+    "453.a99ca6a8.chunk.js.map": "/portfolio/static/js/453.a99ca6a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.802a801a.css",
-    "static/js/main.497bc8a3.js"
+    "static/js/main.36fe29f0.js"
   ]
 }
